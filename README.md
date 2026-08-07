@@ -1,5 +1,7 @@
 # 🛡️ Cyber Defense - SOC Analysis Dashboard (Power BI)
 
+![SOC Command Center](Images/soc-command-center.png)
+
 ## 📌 Project Overview
 
 The **Cyber Defense - SOC Analysis Dashboard** is an end-to-end interactive Power BI project designed to simulate a real-world **Security Operations Center (SOC)** environment. The dashboard enables cybersecurity teams and business stakeholders to monitor security incidents, analyze attack patterns, track analyst performance, evaluate SLA compliance, and gain actionable insights through dynamic visualizations.
@@ -29,6 +31,8 @@ This project contains **6 fully interactive dashboard pages**, each focusing on 
 
 Provides a high-level overview of the organization's security posture.
 
+![SOC Command Center](Images/soc-command-center.png)
+
 ### Includes
 
 - Total Incidents
@@ -50,6 +54,8 @@ Provides a high-level overview of the organization's security posture.
 
 Designed for management and leadership teams to quickly understand the organization's security health.
 
+![Executive Overview](Images/executive-overview.png)
+
 ### Includes
 
 - Overall Incident Trend
@@ -62,6 +68,8 @@ Designed for management and leadership teams to quickly understand the organizat
 ## 🚨 3. Incident Analysis
 
 Deep dive into incident-related analytics.
+
+![Incident Analysis](Images/incident-analysis.png)
 
 ### Includes
 
@@ -77,6 +85,8 @@ Deep dive into incident-related analytics.
 
 Focused on identifying threat patterns and targeted infrastructure.
 
+![Threat Intelligence](Images/threat-intelligence.png)
+
 ### Includes
 
 - Monthly Attack Trend
@@ -91,6 +101,8 @@ Focused on identifying threat patterns and targeted infrastructure.
 
 Designed to evaluate SOC analyst productivity.
 
+![Analyst Performance](Images/analyst-performance.png)
+
 ### Includes
 
 - Top Analysts by Closed Incidents
@@ -104,6 +116,8 @@ Designed to evaluate SOC analyst productivity.
 ## ⏱️ 6. SLA & Operations
 
 Measures operational efficiency.
+
+![SLA & Operations](Images/sla-&-operations.png)
 
 ### Includes
 
