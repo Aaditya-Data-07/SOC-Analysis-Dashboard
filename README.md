@@ -1,6 +1,6 @@
 # 🛡️ Cyber Defense - SOC Analysis Dashboard (Power BI)
 
-![SOC Command Center](Images/soc-command-center.png)
+![SOC Command Center](Images/soc%20command%20center.png)
 
 ## 📌 Project Overview
 
@@ -31,7 +31,7 @@ This project contains **6 fully interactive dashboard pages**, each focusing on 
 
 Provides a high-level overview of the organization's security posture.
 
-![SOC Command Center](Images/soc-command-center.png)
+![SOC Command Center](Images/soc%20command%20center.png)
 
 ### Includes
 
@@ -54,7 +54,7 @@ Provides a high-level overview of the organization's security posture.
 
 Designed for management and leadership teams to quickly understand the organization's security health.
 
-![Executive Overview](Images/executive-overview.png)
+![Executive Overview](Images/executive%20overview.png)
 
 ### Includes
 
@@ -69,7 +69,7 @@ Designed for management and leadership teams to quickly understand the organizat
 
 Deep dive into incident-related analytics.
 
-![Incident Analysis](Images/incident-analysis.png)
+![Incident Analysis](Images/incident%20analysis.png)
 
 ### Includes
 
@@ -85,7 +85,7 @@ Deep dive into incident-related analytics.
 
 Focused on identifying threat patterns and targeted infrastructure.
 
-![Threat Intelligence](Images/threat-intelligence.png)
+![Threat Intelligence](Images/threat%20intelligence.png)
 
 ### Includes
 
@@ -101,7 +101,7 @@ Focused on identifying threat patterns and targeted infrastructure.
 
 Designed to evaluate SOC analyst productivity.
 
-![Analyst Performance](Images/analyst-performance.png)
+![Analyst Performance](Images/analyst%20performance.png)
 
 ### Includes
 
@@ -117,7 +117,7 @@ Designed to evaluate SOC analyst productivity.
 
 Measures operational efficiency.
 
-![SLA & Operations](Images/sla-&-operations.png)
+![SLA & Operations](Images/sla%20%26%20operations.png)
 
 ### Includes
 
