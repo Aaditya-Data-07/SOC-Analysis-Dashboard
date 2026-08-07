@@ -182,8 +182,9 @@ Each visualization has been selected to communicate specific cybersecurity insig
 
 The project follows a structured relational data model using multiple connected tables.
 
-Main tables include:
+![Model View](Images/model%20view.png)
 
+Main tables include:
 - Incident
 - Asset
 - Analyst
